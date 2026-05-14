@@ -38,8 +38,16 @@
   </p>
 * 백엔드
   * Java, Python, , Spring, 보안 지식
+     <p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  </p>
 * 데이터 분석가
-  * Python, SQL, DB관리, 데이터 시각화, 통계 분석, 비즈니스 통찰력
+  * SQL, DB관리, 데이터 시각화, 통계 분석, 비즈니스 통찰력
+    <p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  </p>
  
 ## 📜 Certifications & 🏆 Awards
 * ADsP
