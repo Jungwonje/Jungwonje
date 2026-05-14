@@ -62,4 +62,12 @@
 
 
 ## 📂 Mini Project
-* 
+* | 항목 | 설명 | 내용 |
+|------|------|------|
+| 프로젝트명 | 프로젝트 제목 | 심플뷰티 AI |
+| 기간 | 프로젝트 진행 기간 | 26.05.11 ~ 26.05.14 |
+| 목표 | 프로젝트 목표 | LangSmith 기반 모니터링 시스템 구축<br>전체 Agent 및 Prompt 고도화 |
+| 내 역할 | 프로젝트에서 맡은 역할 | PPT 제작, 대시보드 기능 추가 |
+| 사용 기술 | 사용한 기술/도구 | OpenAI GPT, LangSmith, SQLite, Streamlit, LangGraph, LangChain |
+| 결과물 | 프로젝트 결과물 | [📄 Agent 역할 정의서](링크주소)<br>[📄 Workflow 설계서](링크주소)<br>[📊 PPT](링크주소)<br>[💻 코드 파일](링크주소) |
+| 배운 점 | 프로젝트를 통해 얻은 경험 | Agent 구조 이해 및 Prompt Engineering 경험 |
