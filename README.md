@@ -4,8 +4,7 @@
 <table>
   <tr>
     <td align="center" width="160">
-      <!-- <img width="413" height="531" alt="내 얼굴사진" src="https://github.com/user-attachments/assets/c504750b-c8d9-4eba-8d98-4d06345baff2" /> -->
-      <img src="github.com" width="130" height="130" style="border-radius: 50%;"/>
+      <img src="[방금_복사한_이미지_주소](https://github.com/Jungwonje/Jungwonje/issues/1)" width="200" height="200" style="border-radius: 50%;">
     </td>
     <td>
       <h2>정원제 (Jung WonJe) Resume</h2>
