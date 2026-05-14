@@ -21,12 +21,9 @@
 ### 📊 Data Analyst / Business Analyst
 
 ## 💡 Introduction
-* 
-  * 
-* 
-  * 
-* 
-  * 
+* 데이터에서 비즈니스 인사이트를 도출하기 위한 깊이 있는 **"탐구심"**을 지니고 있습니다.
+* 데이터 처리 및 분석의 모든 과정에서 신뢰도를 높이는 세밀한 **"정확성"**을 유지합니다.
+* 복잡한 분석 결과를 누구나 이해하기 쉽게 전달하는 **"커뮤니케이션 능력"**을 갖추고 있습니다.
 
 ## 🛠️ Tools & Skills
 * 프론트엔드
@@ -40,8 +37,8 @@
   * Java, Python, , Spring, 보안 지식
      <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   </p>
 * 데이터 분석가
   * SQL, DB관리, 데이터 시각화, 통계 분석, 비즈니스 통찰력
