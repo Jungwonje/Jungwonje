@@ -1,17 +1,31 @@
-## 데이터 분석을 통한 비즈니스 문제 해결을 목표로 공부하고 있는 학생 정원제입니다.
-## 단순한 기술 활용을 넘어 분석 결과가 실제 비즈니스 임팩트로 이어지게 만들려고 하는 것이 최종 목표입니다.
+## 데이터 분석을 통한 비즈니스 문제 해결을 목표로 공부하고 있는 학생 정원제입니다. 단순한 기술 활용을 넘어 분석 결과가 실제 비즈니스 임팩트로 이어지게 만들려고 하는 것이 최종 목표입니다.
 
-# 
+<table>
+  <tr>
+    <td align="center" width="160">
+      <!-- <img width="413" height="531" alt="내 얼굴사진" src="https://github.com/user-attachments/assets/c504750b-c8d9-4eba-8d98-4d06345baff2" /> -->
+      <img src="github.com" width="130" height="130" style="border-radius: 50%;"/>
+    </td>
+    <td>
+      <h2>정원제 (Jung WonJe) Resume</h2>
+      <h3>Contact & Channels</h3>
+      <ul>
+        <li><b>Email</b> | your-email@naver.com</li>
+        <li><b>Blog</b> | <a href="tistory.com">tistory.com</a></li>
+        <li><b>Github</b> | <a href="github.com">github.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**Jungwonje/Jungwonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst / Business Analyst
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Introduction
+* 데이터 속에서 **핵심 인사이트**를 발굴하려는 집요함이 있습니다.
+  * 프로젝트 진행 중 발생한 데이터 불균형 문제를 탐색적 데이터 분석(EDA)을 통해 파악하고 전처리 과정을 거쳐 모델의 예측력을 개선했습니다.
+* 분석 모델의 **비즈니스적 타당성**과 작동 원리에 대해 깊게 고민합니다.
+  * 지표 산출 알고리즘의 신뢰성을 확보하기 위해 오픈소스 라이브러리와 통계 기법의 연산 구조를 직접 분석하고 검증했습니다.
+* 분석 요구사항을 명확히 정의하고 **도메인 지식**을 기반으로 가설을 수립합니다.
+  * 비즈니스 시나리오 분석 프로젝트를 진행하며, 가설 검정(A/B Test)을 통해 핵심 성과 지표(KPI)를 정의하고 대시보드를 시각화했습니다.
+* 문제를 명확하게 정의하기 위해 **기록하고 공유**하는 습관을 지니고 있습니다.
+  * 데이터 정제 및 피처 엔지니어링 과정에서 얻은 인사이트를 구조화하여 글로 작성하고, 분석 결과와 코드를 블로그에 지속적으로 공유합니다.
