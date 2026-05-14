@@ -17,6 +17,7 @@
   </tr>
 </table>
 
+### :pencil2:
 ### 📊 Data Analyst / Business Analyst
 
 ## Introduction
