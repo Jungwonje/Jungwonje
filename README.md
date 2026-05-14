@@ -11,7 +11,7 @@
       <h3>Contact & Channels</h3>
       <ul>
         <li><b>Email</b> | study01jwj01@gmail.com</li>
-        <li><b>Github</b> | <a href="github.com">github.com</a></li>
+        <li><b>Github</b> | <a href="https://github.com/Jungwonje">https://github.com/Jungwonje</a></li>
       </ul>
     </td>
   </tr>
