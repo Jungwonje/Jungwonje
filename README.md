@@ -17,15 +17,15 @@
   </tr>
 </table>
 
-### ✏️ Software Engineer(Back-end & Front-end)
-### 📊 Data Analyst / Business Analyst
+#### ✏️ Software Engineer(Back-end & Front-end)
+#### 📊 Data Analyst / Business Analyst
 
-## 💡 Introduction
-* 데이터에서 비즈니스 인사이트를 도출하기 위한 깊이 있는 ## **"탐구심"**을 지니고 있습니다.
-* 데이터 처리 및 분석의 모든 과정에서 신뢰도를 높이는 세밀한 ## **"정확성"**을 유지합니다.
-* 복잡한 분석 결과를 누구나 이해하기 쉽게 전달하는 ## **"커뮤니케이션 능력"**을 갖추고 있습니다.
+### 💡 Introduction
+# * 데이터에서 비즈니스 인사이트를 도출하기 위한 깊이 있는 ## **"탐구심"**을 지니고 있습니다.
+# * 데이터 처리 및 분석의 모든 과정에서 신뢰도를 높이는 세밀한 ## **"정확성"**을 유지합니다.
+# * 복잡한 분석 결과를 누구나 이해하기 쉽게 전달하는 ## **"커뮤니케이션 능력"**을 갖추고 있습니다.
 
-## 🛠️ Tools & Skills
+### 🛠️ Tools & Skills
 * 프론트엔드
   * HTML/CSS, JavaScript
     <p>
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   </p>
  
-## 📜 Certifications & 🏆 Awards
+### 📜 Certifications & 🏆 Awards
 * ADsP
 * SQLD
 * 🏆 2025학년도 한성대학교 교내 캡스톤 대회 최우수상(1등) 수상
