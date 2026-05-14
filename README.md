@@ -20,10 +20,14 @@
 ## ✏️ Software Engineer(Back-end & Front-end)
 ## 📊 Data Analyst / Business Analyst
 
+<br>
+
 ## 💡 Introduction
 #### * 백엔드 개발자로서 신뢰성 높은 서버 환경을 구축하여 이를 DB와 연결하여 데이터 무결성과 성능을 고려한 DB설계 및 최적화할 수 있습니다.
 #### * 프론트엔드 개발자로서 사용자의 경험을 고려한 UI/UX 설계와 다양한 디바이스에 최적화된 화면을 제공할 수 있습니다.
 #### * 데이터 분석자로서 다양한 형태(정형 & 비정형)의 데이터를 수집, 처리, 분석하여 이를 결과로 정리하여 비즈니스 의사결정에 도움이 되도록 변환한 경험이 있습니다.
+
+<br>
 
 ## 🛠️ Tools & Skills
 * 프론트엔드
@@ -45,6 +49,8 @@
     <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   </p>
+
+ <br>
  
 ## 📜 Certifications & 🏆 Awards
 #### * ADsP
