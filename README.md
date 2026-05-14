@@ -20,10 +20,34 @@
 ### ✏️ Software Engineer(Back-end & Front-end)
 ### 📊 Data Analyst / Business Analyst
 
-## Introduction
+## 💡 Introduction
+* 
+  * 
+* 
+  * 
+* 
+  * 
+
+## 🛠️ Tools & Skills
 * 프론트엔드
-  * HTML/CSS, JavaScript, Spring
+  * HTML/CSS, JavaScript
 * 백엔드
-  * Java, Python, DB관리, 보안 지식
+  * Java, Python, , Spring, 보안 지식
 * 데이터 분석가
-  * Python, SQL, 데이터 시각화, 통계 분석, 비즈니스 통찰력
+  * Python, SQL, DB관리, 데이터 시각화, 통계 분석, 비즈니스 통찰력
+ 
+## 📜 Certifications & 🏆 Awards
+* ADsP
+* SQLD
+* 2025학년도 한성대학교 교내 캡스톤 대회 최우수상(1등) 수상
+
+* **Development**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
