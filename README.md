@@ -65,10 +65,10 @@
 
 | 항목 | 설명 | 내용 |
 | :--- | :--- | :--- |
-| **프로젝트명** | 프로젝트 제목 | 심플뷰티 AI |
+| **프로젝트명** | 프로젝트 제목 | 상품리뷰분석 Agent |
 | **기간** | 프로젝트 진행 기간 | 26.05.11 ~ 26.05.14 |
-| **목표** | 프로젝트 목표 | LangSmith 기반 모니터링 시스템 구축<br>전체 Agent 및 Prompt 고도화 |
+| **목표** | 프로젝트 목표 | LangSmith 기반 모니터링 시스템 구축<br>전체 Agent 및 Prompt 고도화<br>다양한 대시보드 기능 추가 |
 | **내 역할** | 프로젝트에서 맡은 역할 | PPT 제작, 대시보드 기능 추가 |
-| **사용 기술** | 사용한 기술/도구 | OpenAI GPT, LangSmith, SQLite, Streamlit, LangGraph, LangChain |
-| **결과물** | 프로젝트 결과물 | [📄 Agent 역할 정의서](링크주소)<br>[📄 Workflow 설계서](링크주소)<br>[📊 PPT](링크주소)<br>[💻 코드 파일](링크주소) |
-| **배운 점** | 프로젝트를 통해 얻은 경험 | Agent 구조 이해 및 Prompt Engineering 경험 |
+| **사용 기술** | 사용한 기술/도구 | OpenAI GPT, LangSmith, SQLite, Streamlit, LangGraph & LangChain |
+| **결과물** | 프로젝트 결과물 | [📄 Agent 역할 정의서](https://docs.google.com/spreadsheets/d/1-mCDTJ4snEnIqXy-wG5BeKZ5NytaDLHZ/edit?gid=327780064#gid=327780064)<br>[📄 Workflow 설계서](https://docs.google.com/spreadsheets/d/1dZyq8BwSVpf6kZjEuTd_z2oX9BXaqBtM/edit?gid=2827937#gid=2827937)<br>[📊 PPT](https://docs.google.com/presentation/d/1VtSfKr0DbSSHX6Wk54Obd5RD9NQ5Pyan/edit?slide=id.p1#slide=id.p1)<br>[💻 코드 파일](https://colab.research.google.com/drive/1OCb8KEZ55yiKjRE2aC1QR1jqkar4hT2u) |
+| **배운 점** | 프로젝트를 통해 얻은 경험이나 교훈 | 팀원들과 협업을 하면서 코드 병합 부분에서 어려움을 느낄 수 있기 때문에 Git을 사용하거나 시간 관리를 잘해야겠다는 교훈을 얻었음. 또한 LangSmith와 Streamlit이 무엇이고 어떻게 실습에서 사용하는지도 몸소 느낄 수 있었음. |
