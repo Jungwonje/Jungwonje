@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://private-user-images.githubusercontent.com/172956248/592559985-978af618-1587-454e-8158-79c3ae83a9a1.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg3Njk2OTUsIm5iZiI6MTc3ODc2OTM5NSwicGF0aCI6Ii8xNzI5NTYyNDgvNTkyNTU5OTg1LTk3OGFmNjE4LTE1ODctNDU0ZS04MTU4LTc5YzNhZTgzYTlhMS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUxNFQxNDM2MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDk5MzdlODA3YTM0NDhjYWNiYjUzZTAxYTRmYjdhNDI0NjkyMTQ1ODdmYTVmZDM1N2NkNjAxNTRkNGU4NmQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.3JXkHTdyqH8uqFQRfJpx0-5sLzft3tQLJHpSIuxUQqw" width="200" height="250" style="border-radius: 50%; object-fit: cover; object-position: center;">
+      <img src=내 얼굴사진.jpg width="200" height="250" style="border-radius: 50%; object-fit: cover; object-position: center;">
     </td>
     <td>
       <h2>정원제 (Jung Wonje) Resume</h2>
