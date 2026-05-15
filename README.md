@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src=내 얼굴사진.jpg width="200" height="250" style="border-radius: 50%; object-fit: cover; object-position: center;">
+      <img src="./profile.jpg" width="200" height="250" style="border-radius: 50%; object-fit: cover; object-position: center;">
     </td>
     <td>
       <h2>정원제 (Jung Wonje) Resume</h2>
