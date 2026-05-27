@@ -113,6 +113,6 @@
 향후 **빅데이터 분석, 데이터 엔지니어링, AI 서비스 개발, MLOps, 데이터 기반 서비스 기획 및 운영 직무**를 수행하는 데 필요한 핵심 역량과 직접적으로 연결된다고 생각합니다.
 
 #### 🔹 실제 구현 사진:
-<img width="1075" height="656" alt="Image" src="https://github.com/user-attachments/assets/cbdf71c0-2e71-48b0-a1b8-17f239309558" />
-<img width="293" height="541" alt="Image" src="https://github.com/user-attachments/assets/ebdfd308-331a-4eea-aa25-9951015e571c" />
 <img width="219" height="700" alt="Image" src="https://github.com/user-attachments/assets/a22afbd6-a81d-450e-8ce7-d4b4b5a8bdea" />
+<img width="293" height="541" alt="Image" src="https://github.com/user-attachments/assets/ebdfd308-331a-4eea-aa25-9951015e571c" />
+<img width="1075" height="656" alt="Image" src="https://github.com/user-attachments/assets/cbdf71c0-2e71-48b0-a1b8-17f239309558" />
