@@ -74,9 +74,13 @@
 | **결과물** | 프로젝트 결과물 | [📄 Agent 역할 정의서](https://docs.google.com/spreadsheets/d/1-mCDTJ4snEnIqXy-wG5BeKZ5NytaDLHZ/edit?gid=327780064#gid=327780064)<br>[📄 Workflow 설계서](https://docs.google.com/spreadsheets/d/1dZyq8BwSVpf6kZjEuTd_z2oX9BXaqBtM/edit?gid=2827937#gid=2827937)<br>[📊 PPT](https://docs.google.com/presentation/d/1VtSfKr0DbSSHX6Wk54Obd5RD9NQ5Pyan/edit?slide=id.p1#slide=id.p1)<br>[💻 코드 파일](https://colab.research.google.com/drive/1OCb8KEZ55yiKjRE2aC1QR1jqkar4hT2u) |
 | **배운 점** | 프로젝트를 통해 얻은 경험이나 교훈 | 팀원들과 협업을 하면서 코드 병합 부분에서 어려움을 느낄 수 있기 때문에 Git을 사용하거나 시간 관리를 잘해야겠다는 교훈을 얻었음. 또한 LangSmith와 Streamlit이 무엇이고 어떻게 실습에서 사용하는지도 몸소 느낄 수 있었음. |
 
+<br>
+
 ### 🔍 상품리뷰분석 Agent
 > 미니 프로젝트(3차) | 2026.05.11 ~ 2026.05.14  
 > `OpenAI GPT` `LangSmith` `SQLite` `Streamlit` `LangGraph & LangChain`
+
+<br>
 
 #### 🔹 활동 배경:
 상품 구매 전 리뷰가 소비자의 의사결정에 큰 영향을 미치지만, 방대한 리뷰 데이터 속에서 가짜 리뷰, 편향된 리뷰,
@@ -85,9 +89,13 @@
 제공하는 AI 서비스를 구현하고자 프로젝트를 진행했습니다.
 또한 Agent실행 흐름을 실시간으로 추적하고 성능을 개선할 수 있도록 LangSmith 기반 모니터링 환경 구축을 주요 목표로 설정했습니다.
 
+<br>
+
 #### 🔹 맡은 역할:
 - Streamlit을 통한 대시보드 기능 구현
 - 발표 PPT 제작
+
+<br>
 
 #### 🔹 구체적인 활동:
 - 대시보드에서 리뷰를 선택 시 해당 리뷰에 대한 분석결과와 피드백을 텍스트 형태로 제공
@@ -95,6 +103,8 @@
 - 현재 리뷰나 과거 리뷰를 구분하지 않고 선택한 리뷰에 대한 전체 대시보드 동기화 작업
 - 선택 리뷰에 대한 별점 및 긍부정 비율 시각적으로 구현
 - LangSmith와 Streamlit을 통한 연계 및 실시간 추적
+
+<br>
 
 #### 🔹 성과 및 배운 점:
 - 단순히 LLM API를 호출하는 수준을 넘어, **LangGraph 기반 Agent Workflow와 LangSmith 기반 실행 모니터링 환경**을 직접 경험하며 AI 서비스에서 Prompt 흐름 관리와 실행 로그 추적의 중요성을 체감할 수 있었고 디버깅 및 오류 분석 시간이 **약 30%** 단축되는 효과를 경험했습니다. (10분 -> 약 7분)
@@ -107,12 +117,33 @@
 - 팀 프로젝트 과정에서 코드 병합 및 기능 통합 과정의 어려움을 경험하며,  
   **역할 분담, 일정 관리, 지속적인 커뮤니케이션의 중요성**을 체감할 수 있었습니다.
 
+<br>
+
 #### 🔹 직무 연관성 강조:
 데이터 분석에 있어서 관심이 많은 저는 본 프로젝트에서 **비정형 텍스트 데이터 분석, LLM 기반 Agent 설계, 
 Prompt Engineering, 실행 로그 모니터링, 데이터 시각화 및 대시보드 구현**과 같은 데이터 분석 및 모델링 경험을 쌓을 수 있었습니다.
 특히 데이터를 기반으로 사용자에게 의미 있는 인사이트를 제공하는 과정과, AI 시스템의 실행 흐름을 추적하며 성능을 개선하는 경험은 향후 **빅데이터 분석, 데이터 엔지니어링, AI 서비스 개발, MLOps, 데이터 기반 서비스 기획 및 운영 직무**를 수행하는 데 필요한 핵심 역량과 직접적으로 연결된다고 생각합니다.
 
 #### 🔹 실제 구현 사진:
-<img width="219" height="700" alt="Image" src="https://github.com/user-attachments/assets/a22afbd6-a81d-450e-8ce7-d4b4b5a8bdea" />
-<img width="293" height="541" alt="Image" src="https://github.com/user-attachments/assets/ebdfd308-331a-4eea-aa25-9951015e571c" />
-<img width="1075" height="656" alt="Image" src="https://github.com/user-attachments/assets/cbdf71c0-2e71-48b0-a1b8-17f239309558" />
+
+<div align="center">
+  <div style="display:flex; align-items:flex-start; gap:20px;">
+    <img 
+      src="https://github.com/user-attachments/assets/a22afbd6-a81d-450e-8ce7-d4b4b5a8bdea"
+      width="180"
+    />
+    <img 
+      src="https://github.com/user-attachments/assets/ebdfd308-331a-4eea-aa25-9951015e571c"
+      width="500"
+    />
+
+  </div>
+
+  <br>
+
+  <img 
+    src="https://github.com/user-attachments/assets/cbdf71c0-2e71-48b0-a1b8-17f239309558"
+    width="700"
+  />
+
+</div>
