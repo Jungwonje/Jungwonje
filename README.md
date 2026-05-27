@@ -130,11 +130,11 @@ Prompt Engineering, 실행 로그 모니터링, 데이터 시각화 및 대시�
   <div style="display:flex; align-items:flex-start; gap:20px;">
     <img 
       src="https://github.com/user-attachments/assets/a22afbd6-a81d-450e-8ce7-d4b4b5a8bdea"
-      width="180"
+      width="250"
     />
     <img 
       src="https://github.com/user-attachments/assets/ebdfd308-331a-4eea-aa25-9951015e571c"
-      width="500"
+      width="450"
     />
 
   </div>
