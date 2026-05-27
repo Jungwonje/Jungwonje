@@ -97,8 +97,7 @@
 - LangSmith와 Streamlit을 통한 연계 및 실시간 추적
 
 #### 🔹 성과 및 배운 점:
-- 단순히 LLM API를 호출하는 수준을 넘어, **LangGraph 기반 Agent Workflow와 LangSmith 기반 실행 모니터링 환경**을 직접 경험하며  
-  AI 서비스에서 Prompt 흐름 관리와 실행 로그 추적의 중요성을 체감할 수 있었고 디버깅 및 오류 분석 시간이 **약 30%** 단축되는 효과를 경험했습니다. (10분 -> 약 7분)
+- 단순히 LLM API를 호출하는 수준을 넘어, **LangGraph 기반 Agent Workflow와 LangSmith 기반 실행 모니터링 환경**을 직접 경험하며 AI 서비스에서 Prompt 흐름 관리와 실행 로그 추적의 중요성을 체감할 수 있었고 디버깅 및 오류 분석 시간이 **약 30%** 단축되는 효과를 경험했습니다. (10분 -> 약 7분)
 
 - 리뷰 선택에 따라 전체 대시보드가 실시간으로 동기화되도록 구현하는 과정에서,
   **상태 관리(State Management)와 데이터 흐름 설계의 중요성**을 실무 관점에서 경험할 수 있었습니다. 또한 동기화를 통해서 사용자 대기 시간을 기존 대비 **약 20%** 감소시킬 수 있었습니다. (2.5초 -> 2초)
@@ -112,3 +111,8 @@
 데이터 분석에 있어서 관심이 많은 저는 본 프로젝트에서 **비정형 텍스트 데이터 분석, LLM 기반 Agent 설계, Prompt Engineering, 실행 로그 모니터링, 데이터 시각화 및 대시보드 구현**과 같은 데이터 분석 및 모델링 경험을 쌓을 수 있었습니다.
 특히 데이터를 기반으로 사용자에게 의미 있는 인사이트를 제공하는 과정과, AI 시스템의 실행 흐름을 추적하며 성능을 개선하는 경험은  
 향후 **빅데이터 분석, 데이터 엔지니어링, AI 서비스 개발, MLOps, 데이터 기반 서비스 기획 및 운영 직무**를 수행하는 데 필요한 핵심 역량과 직접적으로 연결된다고 생각합니다.
+
+#### 🔹 실제 구현 사진:
+<img width="1075" height="656" alt="Image" src="https://github.com/user-attachments/assets/cbdf71c0-2e71-48b0-a1b8-17f239309558" />
+<img width="293" height="541" alt="Image" src="https://github.com/user-attachments/assets/ebdfd308-331a-4eea-aa25-9951015e571c" />
+<img width="219" height="700" alt="Image" src="https://github.com/user-attachments/assets/a22afbd6-a81d-450e-8ce7-d4b4b5a8bdea" />
