@@ -165,3 +165,13 @@ Prompt Engineering, 실행 로그 모니터링, 데이터 시각화 및 대시�
 | **사용 기술** | 사용한 기술/도구 | 프론트(Next.js + React)<br>백엔드(Spring Boot)<br>DB(PocketBase -> MySQL)<br>AI(OpenAI GPT)<br>API(알라딘 & 카카오) |
 | **결과물** | 프로젝트 결과물 | [📊 프론트 관련 PPT](https://docs.google.com/presentation/d/1RIO7uM4AT2s4XU-y0nzbQjKbwRf2mERi/edit?slide=id.p1#slide=id.p1)<br>[📊 백엔드 관련 PPT](https://docs.google.com/presentation/d/1HhYJdAGJdScHMp74ohmUIfp90PHgN2Dp/edit?slide=id.p1#slide=id.p1)<br>[📄 Back&Front종합 README.md](https://docs.google.com/document/d/1Sj1RnOBRZYwHWslbIVGXHn8VbjyhKGrq1iWLz9I6N9k/edit?tab=t.0#heading=h.evzwcsop7bjo)<br> |
 | **배운 점** | 프로젝트를 통해 얻은 경험이나 교훈 | **협업 관련** : 미니프로젝트를 진행하면서 8명이서 Github를 통해서 협업해봤는데 브렌치와 버전 관리의 편리한과 동시에 중요성을 느끼는 경험이 되었음<br><br>**프론트 관련** : Next.js 기반의 풀스택 개발을 진행하였으며 React를 활용한 화면 구현부터 서버리스 백엔드 로직 구축까지 넓은 기술적 스펙트럼을 경험했음<br><br>**백엔드 관련** : Spring Boot API 서버 구축을 통해 웹과 실시간 연동하였으며 외부 API(알라딘&카카오)를 도입하여 불필요한 데이터 생성 공수를 줄이고 외부 플랫폼 데이터를 유연하게 수집 및 처리하는 백엔드 개발 흐름을 학습했음|
+
+<br>
+
+### 📖 도서관리시스템 개발 (AI를 활용한 도서표지 이미지 생성)
+> 미니 프로젝트(4차 & 5차) | 2026.05.22 ~ 2026.06.12  
+> 
+> * **Frontend** | `Next.js` `React`
+> * **Backend** | `Spring Boot` `PocketBase`
+> * **Database** | `MySQL`
+> * **AI & API** | `OpenAI GPT` `Aladin & Kakao API`
